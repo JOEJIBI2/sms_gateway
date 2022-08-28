@@ -25,6 +25,7 @@
 ```
 {
     'key' : 'api incoming key for checking is verified',
+    'tag': 'tag account'
     'title' : 'message title',
     'body' : 'message body'
 }
